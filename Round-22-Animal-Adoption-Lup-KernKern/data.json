@@ -1,0 +1,8 @@
+{
+    "Name": "Buddy",
+    "Type of Animal": "Dog",
+    "Breed": "Golden Retriever",
+    "Date of Birth": "2019-07-15",
+    "Medical Conditions": ["Allergy to certain foods", "Mild Arthritis"],
+    "Photo": "https://your-image-url-here.com/image.jpg"
+}
