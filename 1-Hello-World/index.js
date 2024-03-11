@@ -7,6 +7,6 @@ document.addEventListener("DOMContentLoaded", async ()=>{
 
     const body = document.querySelector("body");
     
-    body.innerHTML = `<p> ${response.data} </p>`
+    body.innerHTML += `<p> ${response.data} </p>`
 
 })
