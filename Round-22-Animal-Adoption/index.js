@@ -3,9 +3,6 @@ document.addEventListener("DOMContentLoaded", async function(){
     const body = document.querySelector("body");
 
     const response = await axios.get("./data.json");
-    // be mindful of the data type. No response.data here.
-
-    const responseData = response.data;
 
     for (let item of response.data){
         
