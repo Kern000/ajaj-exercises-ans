@@ -1,0 +1,18 @@
+[
+    {
+        "Name": "Buddy",
+        "Type of Animal": "Dog",
+        "Breed": "Golden Retriever",
+        "Date of Birth": "2019-07-15",
+        "Medical Conditions": ["Allergy to certain foods", "Mild Arthritis"],
+        "Photo": "https://hips.hearstapps.com/hmg-prod/images/cute-baby-animals-1558535060.jpg?crop=1.00xw:0.669xh;0,0.158xh&resize=980:*"
+    },
+    {
+        "Name": "Buddy 2",
+        "Type of Animal": "Cat",
+        "Breed": "Golden Cat",
+        "Date of Birth": "2012-06-21",
+        "Medical Conditions": ["Allergy to certain dogs", "Doesn't take any bullshit"],
+        "Photo": "https://img.freepik.com/free-photo/cute-domestic-kitten-sits-window-staring-outside-generative-ai_188544-12519.jpg"
+    }
+]
