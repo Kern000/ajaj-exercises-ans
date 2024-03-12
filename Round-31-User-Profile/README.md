@@ -23,5 +23,8 @@ The expected output below is generated with the following html:
     </span></li>
   </ul>
 
+<p> Expected Output: </p>
+<p> </p>
+
 Expected Output
 ![alt text](image.png)
