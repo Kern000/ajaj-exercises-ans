@@ -19,7 +19,7 @@ The HTML for the <select> should look something like this:
 <br>
 <br>
 
-<select id="countries">
+<!-- <select id="countries">
 <option value="sg">Singapore</option>
 <option value="my">Malaysia</option>
-</select>
+</select> -->
