@@ -26,5 +26,4 @@ The expected output below is generated with the following html:
 <p> Expected Output: </p>
 <p> </p>
 
-Expected Output
 ![alt text](image.png)
